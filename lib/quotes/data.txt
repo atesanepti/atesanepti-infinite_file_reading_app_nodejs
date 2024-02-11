@@ -1,0 +1,7 @@
+JavaScript is Most Popular Programming Langues Rigt Now
+JavaScript is Single thread Programing Langues
+JavaScript has Non Blocking I/O 
+JavaScript Run in Locan Machine Also
+NodeJs is a RunTime Of JavaScript
+NodeJs Make By Ryan Dhal
+NodeJs Gave Powerd File System, Operating System Use To JavaScript
